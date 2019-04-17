@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Provider provides state updates to connect maps actions to props 1`] = `
+Array [
+  <div>
+    mapped actions: 
+    {
+    "set": {},
+    "get": {}
+}
+  </div>,
+  " ",
+]
+`;
+
+exports[`Provider provides state updates to connect maps logic to props 1`] = `
+Array [
+  <div>
+    mapped logic: 
+    {}
+  </div>,
+  " ",
+]
+`;
+
+exports[`Provider provides state updates to connect passes the right props to the component 1`] = `
+Array [
+  <div>
+    Tom
+  </div>,
+  " ",
+]
+`;
+
+exports[`Provider provides state updates to connect renders without crashing 1`] = `
+Array [
+  <div>
+    test
+  </div>,
+  " ",
+]
+`;
+
+exports[`Provider provides state updates to connect updates to state are reflected on the component 1`] = `
+Array [
+  <div>
+    Alpha
+  </div>,
+  " ",
+]
+`;
