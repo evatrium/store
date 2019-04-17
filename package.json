@@ -1,6 +1,6 @@
 {
   "name": "@iosio/store",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ultra simple state management for react",
   "main": "lib/index.js",
   "module": "es/index.js",
